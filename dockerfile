@@ -1,2 +1,2 @@
 FROM nginx:latest
-COPY pipeline-nginx /usr/share/nginx/html
+COPY mycode /usr/share/nginx/html
